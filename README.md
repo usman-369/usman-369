@@ -1,1 +1,1 @@
-👋 Hi, I’m Usman Ghani
+Salam 🤝, I’m Usman Ghani.
