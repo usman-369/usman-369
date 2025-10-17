@@ -1,6 +1,8 @@
 # 🧔‍♂️ About Me
 
-**Salam** 🤝, I’m Usman Ghani.
+**Salam** 🤝, I’m Usman Ghani.<br>
+I am learning **Python** and backend web development with **Django**.<br>
+I am also a **watch** enthusiast and a hobbyist **watchmaker**.
 
 ```text
  _______________
@@ -17,7 +19,7 @@
 
 # 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usman9_11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@HalwaCoding-786) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/usman-369)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usman9_11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HalwaCoding-786) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27099702)
 
 ---
 
@@ -29,9 +31,9 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=usman-369&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=usman-369&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-369&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=usman-369&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=usman-369&theme=merko&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-369&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
