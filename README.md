@@ -1,8 +1,8 @@
 # 🧔‍♂️ About Me
 
-**Salam** 🤝, I’m Usman Ghani.<br>
-I am learning **Python** and backend web development with **Django**.<br>
-I am also a **watch** enthusiast and a hobbyist **watchmaker**.
+**Salam**, I’m Usman Ghani.<br>
+I'm learning **Python** and backend web development with **Django**.<br>
+I'm also a **watch** enthusiast and a hobbyist **watchmaker**.
 
 ```text
  _______________
