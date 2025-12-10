@@ -19,20 +19,18 @@ I'm also a **watch** enthusiast and a hobbyist **watchmaker**.
 
 # 🌐 Socials
 
-<p>
-  <a href="https://instagram.com/usman9_11">
+- <a href="https://instagram.com/usman9_11">
     <img src="assets/icons/instagram.svg" alt="Instagram" width="38" />
   </a>
-  <a href="https://youtube.com/@HalwaCoding-786">
+- <a href="https://youtube.com/@HalwaCoding-786">
     <img src="assets/icons/youtube.svg" alt="YouTube" width="38" />
   </a>
-  <a href="https://stackoverflow.com/users/27099702">
+- <a href="https://stackoverflow.com/users/27099702">
     <img src="assets/icons/stackoverflow.svg" alt="Stack Overflow" width="38" />
   </a>
-  <a href="https://github.com/usman-369">
+- <a href="https://github.com/usman-369">
     <img src="assets/icons/github.svg" alt="GitHub" width="38" />
   </a>
-</p>
 
 ---
 
