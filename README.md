@@ -21,16 +21,16 @@ I'm also a **watch** enthusiast and a hobbyist **watchmaker**.
 
 <p>
   <a href="https://instagram.com/usman9_11">
-    <img src="assets/icons/instagram.svg" alt="Instagram" width="38" style="border-radius:25%;" />
+    <img src="assets/icons/instagram.svg" alt="Instagram" width="38" />
   </a>
   <a href="https://youtube.com/@HalwaCoding-786">
-    <img src="assets/icons/youtube.svg" alt="YouTube" width="38" style="border-radius:25%;" />
+    <img src="assets/icons/youtube.svg" alt="YouTube" width="38" />
   </a>
   <a href="https://stackoverflow.com/users/27099702">
-    <img src="assets/icons/stackoverflow.svg" alt="Stack Overflow" width="38" style="border-radius:25%;" />
+    <img src="assets/icons/stackoverflow.svg" alt="Stack Overflow" width="38" />
   </a>
   <a href="https://github.com/usman-369">
-    <img src="assets/icons/github.svg" alt="GitHub" width="38" style="border-radius:25%;" />
+    <img src="assets/icons/github.svg" alt="GitHub" width="38" />
   </a>
 </p>
 
@@ -44,8 +44,8 @@ I'm also a **watch** enthusiast and a hobbyist **watchmaker**.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=usman-369&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=usman-369&theme=merko&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=usman-369&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=usman-369&theme=merko&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-369&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
